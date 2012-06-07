@@ -8,6 +8,7 @@ class Fishfish < Formula
   version '1.23.1'
 
   depends_on 'doxygen' => :build
+  depends_on 'autoconf' => :build
 
   def install
     system "autoconf"
