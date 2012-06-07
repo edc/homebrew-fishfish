@@ -4,7 +4,7 @@ First, make sure you Homebrew version is 0.9 or above (you can check your brew v
 
 After tapping this repo with
 
-    brew tap edc/homebrew-fish
+    brew tap edc/homebrew-fishfish
 
 You can install with just one line of command:
 
