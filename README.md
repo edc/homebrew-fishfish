@@ -10,6 +10,6 @@ You can install with just one line of command:
 
     brew install fishfish
 
-If you want to stay on the edge and use the latest and greatest from SVN:
+If you want to stay on the edge and use the latest and greatest from GitHub:
 
     brew install --HEAD fishfish
