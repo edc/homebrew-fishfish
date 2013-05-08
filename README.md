@@ -1,4 +1,8 @@
-# Homebrew-fish: tap-ready formula for [Fish's fish](http://ridiculousfish.com/shell/), the new fork of fish shell.
+##UPDATE: you don't need this any more since Homebrew now has its own `fishfish` recipe.
+
+
+
+### Homebrew-fish: tap-ready formula for [Fish's fish](http://ridiculousfish.com/shell/), the new fork of fish shell.
 
 First, make sure you Homebrew version is 0.9 or above (you can check your brew version with `brew --version`).
 
